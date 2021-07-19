@@ -1,0 +1,11 @@
+{ 
+ "name": "贸易", 
+ "网站": "https://polytrade.finance/", 
+ "描述": "贸易", 
+ "explorer": "https://bscscan.com/token/0x28054fe13968c7d28f73376b8b071b4915aeb821", 
+ "类型": "BEP20", 
+ "symbol": "贸易", 
+ “小数”：18， 
+ “状态”：“活动”， 
+ “id”：“0x28054fe13968c7d28f73376b8b071b4915aeb821” 
+ } 
